@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "judul": "Timun Mas",
+    "kategori": "Dongeng",
+    "asal": "Jawa Tengah",
+    "ringkasan": "Kisah Timun Mas melarikan diri dari raksasa jahat.",
+    "isi": "Pada zaman dahulu di Jawa Tengah, hiduplah seorang wanita tua bernama Mbok Srini...",
+    "gambar": "https://alifiyahenha.github.io/host_api/images/timun_mas.jpg"
+  },
+  {
+    "id": 2,
+    "judul": "Malin Kundang",
+    "kategori": "Legenda",
+    "asal": "Sumatera Barat",
+    "ringkasan": "Anak durhaka yang dikutuk menjadi batu karena tidak mengakui ibunya.",
+    "isi": "Dahulu kala, di sebuah kampung nelayan di pesisir Sumatera Barat...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/malin_kundang.jpg"
+  },
+  {
+    "id": 3,
+    "judul": "Legenda Danau Toba",
+    "kategori": "Legenda",
+    "asal": "Sumatera Utara",
+    "ringkasan": "Kisah asal mula Danau Toba...",
+    "isi": "Di sebuah lembah yang subur di tanah Sumatera...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/danau_toba.jpg"
+  },
+  {
+    "id": 4,
+    "judul": "Roro Jonggrang",
+    "kategori": "Legenda",
+    "asal": "Yogyakarta",
+    "ringkasan": "Cerita asal mula Candi Prambanan...",
+    "isi": "Pada zaman dahulu kala...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/roro_jonggrang.jpg"
+  },
+  {
+    "id": 5,
+    "judul": "Legenda Tangkuban Perahu",
+    "kategori": "Legenda",
+    "asal": "Jawa Barat",
+    "ringkasan": "Asal usul Gunung Tangkuban Perahu...",
+    "isi": "Pada zaman dahulu kala...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/sangkuriang.jpg"
+  },
+  {
+    "id": 6,
+    "judul": "Legenda Batu Menangis",
+    "kategori": "Legenda",
+    "asal": "Kalimantan Barat",
+    "ringkasan": "Gadis cantik bernama Darmi...",
+    "isi": "Pada zaman dahulu kala...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/batu_menangis.jpg"
+  },
+  {
+    "id": 7,
+    "judul": "Cinderella",
+    "kategori": "Dongeng",
+    "asal": "Prancis",
+    "ringkasan": "Kisah gadis baik hati...",
+    "isi": "Pada zaman dahulu...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/cinderella.jpg"
+  },
+  {
+    "id": 8,
+    "judul": "Putri Salju dan 7 Kurcaci",
+    "kategori": "Dongeng",
+    "asal": "Jerman",
+    "ringkasan": "Cerita tentang kejujuran dan kebaikan hati...",
+    "isi": "Pada zaman dahulu...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/putri_salju.jpg"
+  },
+  {
+    "id": 9,
+    "judul": "Hansel dan Gretel",
+    "kategori": "Dongeng",
+    "asal": "Jerman",
+    "ringkasan": "Kakak beradik yang cerdik...",
+    "isi": "Pada zaman dahulu...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/hansel_gretel.jpg"
+  },
+  {
+    "id": 11,
+    "judul": "Si Kancil dan Petani",
+    "kategori": "Dongeng",
+    "asal": "Jawa",
+    "ringkasan": "Dongeng klasik Nusantara...",
+    "isi": "Pada suatu hari di sebuah desa...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/kancil_petani.jpg"
+  },
+  {
+    "id": 12,
+    "judul": "Kelinci dan Kura-kura",
+    "kategori": "Fabel",
+    "asal": "Yunani Kuno",
+    "ringkasan": "Pelajaran bahwa kerja keras...",
+    "isi": "Pada suatu hari yang cerah...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/kelinci_kura.jpg"
+  },
+  {
+    "id": 13,
+    "judul": "Gagak dan Kendi Air",
+    "kategori": "Fabel",
+    "asal": "Yunani Kuno",
+    "ringkasan": "Mengajarkan kecerdikan...",
+    "isi": "Pada suatu hari yang sangat terik...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/gagak_kendi.jpg"
+  },
+  {
+    "id": 14,
+    "judul": "Semut dan Belalang",
+    "kategori": "Fabel",
+    "asal": "Yunani Kuno",
+    "ringkasan": "Cerita tentang pentingnya bekerja keras...",
+    "isi": "Pada suatu musim panas yang cerah...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/semut_belalang.jpg"
+  },
+  {
+    "id": 15,
+    "judul": "Singa dan Tikus",
+    "kategori": "Fabel",
+    "asal": "Yunani Kuno",
+    "ringkasan": "Mengajarkan bahwa kebaikan...",
+    "isi": "Suatu hari di hutan yang lebat...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/singa_tikus.jpg"
+  },
+  {
+    "id": 16,
+    "judul": "Kancil dan Buaya",
+    "kategori": "Fabel",
+    "asal": "Indonesia",
+    "ringkasan": "Cerita Nusantara tentang kecerdikan Kancil...",
+    "isi": "Pada suatu hari yang cerah...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/kancil_buaya.jpg"
+  },
+  {
+    "id": 17,
+    "judul": "Raka dan Ujian Kejujuran",
+    "kategori": "Cerita Moral",
+    "asal": "Indonesia",
+    "ringkasan": "Kisah seorang anak bernama Raka...",
+    "isi": "Pada suatu waktu di sebuah desa...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/jujur_apel.jpg"
+  },
+  {
+    "id": 18,
+    "judul": "Raja yang Bijaksana dan Rakyatnya",
+    "kategori": "Cerita Moral",
+    "asal": "Indonesia",
+    "ringkasan": "Kisah Raja Aryasatya...",
+    "isi": "Pada zaman dahulu...",
+    "gambar": "https://raw.githubusercontent.com/Alifiyahenha/host_api/main/images/kerajaan.jpg"
+  }
+]
